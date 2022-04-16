@@ -126,7 +126,5 @@ expenditurefig =px.histogram(
     template="plotly_white",
 )
 st.plotly_chart(expenditurefig, use_container_width=True)
-#add boxplot
-
 
 
